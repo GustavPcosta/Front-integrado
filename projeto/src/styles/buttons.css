@@ -1,0 +1,42 @@
+button{
+cursor: pointer;
+color:white;
+border: none;
+}
+
+.btn-pink-color{
+background-color: #B7005C;
+
+}
+
+.btn-pink-ligth{
+background-color: #B7005C78;
+}
+
+.button-form{
+height: 56px;
+position: relative;
+width: 112px;
+left: 145px;
+border-radius: 30px;
+padding: 20px, 16px, 20px, 16px;
+}
+
+.button-big{ 
+height: 48px;
+width: 161px;
+border-radius: 80px;
+padding: 14px, 16px, 14px, 16px;
+}
+
+.button-small{
+height: 40px;
+width: 96px;
+border-radius: 20px;
+padding: 10px, 16px, 10px, 16px;  
+}
+.btn-clear-color{
+border: 1px solid #B7005C;
+color: #B7005C;
+background-color:#fcfcfc;
+}

@@ -1,0 +1,89 @@
+
+.table-head{
+display: flex;
+justify-content: space-between;
+margin-bottom: 8px;
+}
+.table-row{
+display: flex;
+align-items: center;
+justify-content:space-between;
+height: 56px;
+}
+
+.linha-vertical{
+height: 0px;
+width: 1682px;
+border: 1px solid #E5E5E5
+
+}
+.container-table{
+margin-top: 40px;
+height: 1084px;
+width: 1632px;
+width: 100%;
+border-radius: 0px;
+background: rgba(252, 252, 252, 1);
+position: relative;
+}
+
+.container-big{
+text-align: center;
+padding: 0 186px;
+width: 60%;
+}
+
+.container-middle{
+text-align: center;
+width: 50%;
+}
+
+.container-small{
+text-align: center;
+width: 35%;
+}
+
+.table-body-two{
+height: 112px;
+width: 1680px;
+background-color: #F5F5f5;
+position: relative;
+margin-bottom: 12px;
+}
+
+.img-photo{
+position: relative;
+height: 80px;
+width: 80px; 
+top: 30px; 
+}
+
+.number{
+position: relative;
+left: -45px;
+}
+
+.number-one{
+position: relative;
+left: 198px;
+}
+
+.number-three{
+position: relative;
+left: 250px;
+}
+
+.img-actions{
+position: relative;
+left: 230px;
+margin-left: 8px;
+}
+
+.table-head h3{
+height: 28px;
+width: 166px;
+font-style: normal;
+font-size: 24px;
+line-height: 28px;
+font-weight:600;
+}

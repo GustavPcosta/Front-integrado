@@ -1,0 +1,22 @@
+.error{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 8px;
+
+padding: 16px;
+border-radius: 4px;
+background: #FF505F;
+position: fixed; 
+}
+
+.error img {
+width: 20px;
+}
+
+.error p{
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+}

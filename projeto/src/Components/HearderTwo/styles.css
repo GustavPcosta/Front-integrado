@@ -1,0 +1,23 @@
+.container-hearder-two{
+justify-content: space-between;
+display: flex;
+}
+
+.hearde-logo{
+position: relative;
+left: 390px;
+top: 20px;
+height: 30px;
+width: 30px;  
+}
+
+.market-header{
+height: 59px;
+width: 42px; 
+}
+
+.user-two{
+position: relative;
+left: 350px;
+bottom: 2px;
+}

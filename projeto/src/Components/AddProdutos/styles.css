@@ -1,0 +1,114 @@
+.container-add-products{
+position: absolute;
+height: 669px;
+
+border-radius: 6px;   
+background-color:#Fcfcfc ;
+left: 7.5%;
+top: 144px;
+right: 7.5px;
+}
+
+.add-modal{
+position: relative;
+height: 500px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+padding:0 24px;
+}
+
+.add-modal select{
+position: relative;
+top: 40px;
+background: #fffefe;
+height: 52px;
+width: 355px;
+border-radius: 6px; 
+}
+.add-modal label{
+position: absolute;
+}
+.add-modal h3{
+height: 52px;
+width: 1197px; 
+border-radius: 6px;  
+text-align: left;
+
+}
+.input-select{
+display: flex;
+justify-content:space-between;
+}
+
+.input-right{
+position: relative;
+top: 40px;
+height: 52px;
+width: 1197px;
+border-radius: 6px;
+
+}
+
+.add-modal input{
+padding: 0 16px;
+}
+
+.input-description input{
+position: relative;
+top: 40px;
+height: 177px;
+width: 1197px;
+border-radius: 6px;
+}
+
+.add-photo input{
+position: relative;
+top: 138px;
+height: 160px;
+width: 160px;
+border-radius: 0px; 
+border: 1.5px solid #858585;
+}
+.input-buy input{
+position: relative;
+top: 87px;
+height: 44px;
+width: 175px;
+border-radius: 6px;
+margin-top: 35px;
+}
+.btn-buttons{
+position: absolute;
+bottom: -250px;
+}
+.add-photo label{
+left: 25px;
+top: 447px;
+}
+
+.select-and-label{
+margin-left: 32px;
+}
+
+.input-description label{
+position:absolute;
+top: 10px;
+}
+.input-buy label{
+position:absolute;
+top:350px;
+}
+
+.input-description{
+position: relative;
+top: 50px;
+}
+
+.btn-cancelar{
+margin-left: 46px;
+}
+
+.estoque{
+margin-left: 48px;
+}

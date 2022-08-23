@@ -1,0 +1,53 @@
+.container-card {
+max-width: 382px;
+max-height: 482px;
+margin: 20px;
+cursor: pointer;
+border-radius: 8px;
+  }
+  
+  .container-card  {
+width: 342px;
+height: 342px;
+background-position: 50% 50%;
+background-size: cover;
+  }
+  .card-image{
+width: 342px;
+height: 342px;
+background-position: 50% 50%;
+background-size: cover;
+  }
+  
+.container-card  {
+font-family: 'Public Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: -0.38px;
+height: 48px;
+text-overflow: ellipsis;
+}
+  
+.container-card .card-preco  {
+color: #D10070;
+
+font-family: 'Public Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 38px;
+letter-spacing: -0.38px;
+}
+
+.card-name{
+font-family: 'Public Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: -0.38px;
+height: 48px;
+text-overflow: ellipsis;
+}

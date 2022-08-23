@@ -1,0 +1,44 @@
+.container-modal{
+height: 214px;
+width: 546px;
+border-radius: 6px;
+
+}
+.button-modal{
+justify-content:space-between;
+display: flex;
+align-items: flex-start;
+margin-top: 12px;
+flex-direction: row;
+}
+
+.container-modal strong{
+height: 38px;
+width: 490px;
+  
+color: #32323B;
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+display: flex;
+text-align: left;
+font-style: normal;
+}
+.container-modal p{
+height: 38px;
+width: 490px;
+color: #191919;
+font-size: 16px;
+line-height: 19px;
+font-weight: 400px;
+}
+
+.container-modal img{
+position: relative;
+left: 220px;
+bottom: 15px;
+}
+
+.buttons-action{
+margin-left: 18px;
+}
